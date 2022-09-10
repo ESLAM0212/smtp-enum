@@ -1,2 +1,3 @@
 # smtp-enum
-## tool fo enum users via smtp
+## tool for enum users via smtp
+### using : python2 smtp_enum ip users_file
